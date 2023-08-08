@@ -4,4 +4,5 @@
 
 ## パフォーマンス
 
+cdn: 362745 bytes
 air: 342688 bytes
